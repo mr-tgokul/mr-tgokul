@@ -1,6 +1,4 @@
-### Hi there 👋 I'm a Virtualization Engineer who loves automating with PowerShell and Python 🐍
-
-About Me
+### Hi there 👋 I'm a Virtualization Engineer who loves automating tasks with PowerShell and Python 🐍
 
 I'm passionate about virtualization technologies and have extensive experience in designing, implementing, and managing virtual infrastructures. I have a strong background in PowerShell and Python scripting, and I love using automation to streamline and optimize workflows.
 
